@@ -1,3 +1,5 @@
 work in clone
 Aaaaaaaaaaa
 bbbbbbbbbb
+成功しました
+Sshで認証されてたらurlからのpushもいけるっぽい
